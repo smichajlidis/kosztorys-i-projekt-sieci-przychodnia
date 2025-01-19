@@ -8,6 +8,6 @@ Stwórz kosztorys wstępny dla sieci komuterowej w przychodni lekarskiej, która
 
 ## Projekt budynku
 
-![Wizualizacja przychodni](projekt-przychodni.png)
+![Wizualizacja przychodni](wizualizacja/projekt-przychodni.png)
 
 
