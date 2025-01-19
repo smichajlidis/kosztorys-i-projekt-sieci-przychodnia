@@ -21,10 +21,10 @@ Wymagania:
 
 ### Co zawiera repozytorium?
 1. **Kosztorys**:
-   - [`kosztorys-wstepny.xlsx`](kosztorys-wstepny.xlsx) – wstępny kosztorys w formacie Excel.
-   - [`kosztorys-wstepny.pdf`](kosztorys-wstepny.pdf) – kosztorys w formacie PDF.
+   - [`kosztorys-wstepny.xlsx`](kosztorys/kosztorys-wstepny.xlsx) – wstępny kosztorys w formacie Excel.
+   - [`kosztorys-wstepny.pdf`](kosztorys/kosztorys-wstepny.pdf) – kosztorys w formacie PDF.
 
 2. **Projekt budynku**:
-   - [`projekt-przychodni.drawio`](projekt-przychodni.drawio) – wizualizacja przychodni stworzona w draw.io.
-   - [`projekt-przychodni.png`](projekt-przychodni.png) – podgląd projektu w formacie PNG.# Kosztorys i projekt sieci do przychodni
+   - [`projekt-przychodni.drawio`](wizualizacja/projekt-przychodni.drawio) – wizualizacja przychodni stworzona w draw.io.
+   - [`projekt-przychodni.png`](wizualizacja/projekt-przychodni.png) – podgląd projektu w formacie PNG.# Kosztorys i projekt sieci do przychodni
 
