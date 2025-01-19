@@ -1,13 +1,30 @@
 # Kosztorys i projekt sieci do przychodni
 
-Zadanie to pochodzi z podręcznika do przygotowania do kwalifikacji INF.02 Jarosława Orczykowskiego i Artura Rudnickiego.
+To repozytorium zawiera kosztorys, projekt budynku oraz projekt logiczny sieci komputerowej dla przychodni lekarskiej. 
 
-## Treść zadania
+## Zadanie
+Zadanie pochodzi z podręcznika do przygotowania do kwalifikacji INF.02 Jarosława Orczykowskiego i Artura Rudnickiego.
 
-Stwórz kosztorys wstępny dla sieci komuterowej w przychodni lekarskiej, która mieści się w budynku parterowym o wymiarach 20x10 m podzielonym na osiem identycznych pomieszczeń - siedem z nich to gabinety lekarskie, a jeden to rejestracja. W każdym z gabinetów powinny pracować: komputer, drukarka lokalna oraz aparat telefoniczny VoIP, a w rejestracji - dwa komputery, drukarka sieciowa oraz aparat telefoniczny VoIP. Prrzychodnia nie ma wydzielonego miejsca na serwerownię. Kosztorys sporządź dla zaprojektowanego przez siebie budynku. Stwórz projekt logiczny sieci komputerowej.
+### Treść zadania
+Stwórz kosztorys wstępny dla sieci komputerowej w przychodni lekarskiej, która mieści się w budynku parterowym o wymiarach 20x10 m podzielonym na osiem identycznych pomieszczeń – siedem z nich to gabinety lekarskie, a jeden to rejestracja. 
 
-## Projekt budynku
+Wymagania:
+- W każdym gabinecie:
+  - 1 komputer,
+  - 1 drukarka lokalna,
+  - 1 aparat telefoniczny VoIP.
+- W rejestracji:
+  - 2 komputery,
+  - 1 drukarka sieciowa,
+  - 1 aparat telefoniczny VoIP.
+- Brak wydzielonej serwerowni.
 
-![Wizualizacja przychodni](wizualizacja/projekt-przychodni.png)
+### Co zawiera repozytorium?
+1. **Kosztorys**:
+   - [`kosztorys-wstepny.xlsx`](kosztorys-wstepny.xlsx) – wstępny kosztorys w formacie Excel.
+   - [`kosztorys-wstepny.pdf`](kosztorys-wstepny.pdf) – kosztorys w formacie PDF.
 
+2. **Projekt budynku**:
+   - [`projekt-przychodni.drawio`](projekt-przychodni.drawio) – wizualizacja przychodni stworzona w draw.io.
+   - [`projekt-przychodni.png`](projekt-przychodni.png) – podgląd projektu w formacie PNG.# Kosztorys i projekt sieci do przychodni
 
