@@ -26,5 +26,10 @@ Wymagania:
 
 2. **Projekt budynku**:
    - [`projekt-przychodni.drawio`](wizualizacja/projekt-przychodni.drawio) – wizualizacja przychodni stworzona w draw.io.
-   - [`projekt-przychodni.png`](wizualizacja/projekt-przychodni.png) – podgląd projektu w formacie PNG.# Kosztorys i projekt sieci do przychodni
+   - [`projekt-przychodni.png`](wizualizacja/projekt-przychodni.png) – podgląd wizualizacji w formacie PNG.
+
+3. **Projekt logiczny sieci**:
+   - [`przychodnia-siec.pkt`](projekt-logiczny/przychodnia-siec.pkt) - projekt logiczny sieci w Packet Tracer.
+   - [`diagram-logiczny.png`](projekt-logiczny/diagram-logiczny.png) - podgląd projektu w formacie PNG.
+
 
